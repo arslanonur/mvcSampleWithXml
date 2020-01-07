@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<foods>
+  <food>
+    <date>22.01.2020</date>
+    <name>Çiğ Kırmızı Et(Dana Eti)</name>
+    <company>Feyaz Kasap Büyükçekmece/İstanbul</company>
+    <content>Maget Marka - Tek Tırnaklı Eti Tespit Edilmiştir.</content>
+    <serialNumber>AU-50156</serialNumber>
+  </food>
+  <food>
+    <date>07.42.2020</date>
+    <name>Süzme Çiçek Balı</name>
+    <company>Melis Arı Çiftliği Kahramankazan/Ankara</company>
+    <content>Protein ve Ham bal Delte C13 değerleri arasındaki fark, C4 Şeker oranı, Diastaz, HMF </content>
+    <serialNumber>asd</serialNumber>
+  </food>
+  <food>
+    <date>07.39.2020</date>
+    <name>Kızrmızı Pul Biber (Boya Tespiti)</name>
+    <company>Bozkurt Biber Fabrikası Kilis</company>
+    <content>Boya Teşhisi</content>
+    <serialNumber>AUs-123-aU</serialNumber>
+  </food>
+    <food>
+    <date>22.01.2020</date>
+    <name>Çiğ Kırmızı Et(Dana Eti)</name>
+    <company>Feyaz Kasap Büyükçekmece/İstanbul</company>
+    <content>Maget Marka - Tek Tırnaklı Eti Tespit Edilmiştir.</content>
+    <serialNumber>AU-50156</serialNumber>
+  </food>
+  <food>
+    <date>07.42.2020</date>
+    <name>Süzme Çiçek Balı</name>
+    <company>Melis Arı Çiftliği Kahramankazan/Ankara</company>
+    <content>Protein ve Ham bal Delte C13 değerleri arasındaki fark, C4 Şeker oranı, Diastaz, HMF </content>
+    <serialNumber>asd</serialNumber>
+  </food>
+  <food>
+    <date>07.39.2020</date>
+    <name>Kızrmızı Pul Biber (Boya Tespiti)</name>
+    <company>Bozkurt Biber Fabrikası Kilis</company>
+    <content>Boya Teşhisi</content>
+    <serialNumber>AUs-123-aU</serialNumber>
+  </food>
+    <food>
+    <date>22.01.2020</date>
+    <name>Çiğ Kırmızı Et(Dana Eti)</name>
+    <company>Feyaz Kasap Büyükçekmece/İstanbul</company>
+    <content>Maget Marka - Tek Tırnaklı Eti Tespit Edilmiştir.</content>
+    <serialNumber>AU-50156</serialNumber>
+  </food>
+  <food>
+    <date>07.42.2020</date>
+    <name>Süzme Çiçek Balı</name>
+    <company>Melis Arı Çiftliği Kahramankazan/Ankara</company>
+    <content>Protein ve Ham bal Delte C13 değerleri arasındaki fark, C4 Şeker oranı, Diastaz, HMF </content>
+    <serialNumber>asd</serialNumber>
+  </food>
+  <food>
+    <date>07.39.2020</date>
+    <name>Kızrmızı Pul Biber (Boya Tespiti)</name>
+    <company>Bozkurt Biber Fabrikası Kilis</company>
+    <content>Boya Teşhisi</content>
+    <serialNumber>AUs-123-aU</serialNumber>
+  </food>
+</foods>
